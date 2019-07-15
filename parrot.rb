@@ -9,6 +9,9 @@ def parrot
   return phrase
 end
 
+def parrot("Pretty bird!")
+  
+
 
   
  
