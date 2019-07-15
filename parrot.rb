@@ -1,4 +1,5 @@
-def parrot 
+def parrot(phrase)
+  
 end
 
 
